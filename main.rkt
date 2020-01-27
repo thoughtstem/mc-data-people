@@ -7,7 +7,7 @@
          mc-data-people/person-chip 
          mc-data-badges/badge-chip
          (except-in website/bootstrap select)
-         mc-data/views/util)
+         webapp/views/util)
 
 (define (person-show person)
   (container
